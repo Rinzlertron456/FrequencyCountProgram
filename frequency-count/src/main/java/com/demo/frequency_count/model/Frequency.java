@@ -1,11 +1,12 @@
-package model;
+package com.demo.frequency_count.model;
 
 import jakarta.persistence.Entity;
-import org.springframework.beans.factory.annotation.Autowired;
+import jakarta.persistence.Id;
+import java.util.HashMap;
 
 @Entity
 public class Frequency {
-    @Autowired
+    @Id
     private String input;
 
     public String getInput() {
@@ -15,4 +16,5 @@ public class Frequency {
     public void setInput(String input) {
         this.input = input;
     }
+
 }
