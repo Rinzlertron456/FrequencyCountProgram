@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6a2777-3c49-4449-9079-6665f6d85c11" name="Changes" comment="push-freq-count">
+    <list default="true" id="efcf4aae-442f-4e3c-bc5a-ad72b87c3232" name="Changes" comment="push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-counter/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-counter/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,33 +25,40 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Rinzlertron456/FrequencyCountProgram.git&quot;,
-    &quot;accountId&quot;: &quot;3d813291-c437-49ea-a04c-03c5dd46f24b&quot;
+    &quot;accountId&quot;: &quot;d022b9c6-39dc-4bc8-ab65-fa774336785f&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2o1XrwPycmRftONhRBdSmLMpBMI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2o65KD6EduDirPq6InErfuYRdk2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,60 +69,34 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f6a2777-3c49-4449-9079-6665f6d85c11" name="Changes" comment="" />
-      <created>1730038259229</created>
+      <changelist id="efcf4aae-442f-4e3c-bc5a-ad72b87c3232" name="Changes" comment="" />
+      <created>1730177119263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730038259229</updated>
-      <workItem from="1730038260066" duration="618000" />
-      <workItem from="1730038900599" duration="3379000" />
-      <workItem from="1730208614378" duration="4111000" />
-      <workItem from="1730349901548" duration="85000" />
+      <updated>1730177119263</updated>
+      <workItem from="1730177121042" duration="26000" />
+      <workItem from="1730177152657" duration="719000" />
+      <workItem from="1730177881041" duration="1095000" />
+      <workItem from="1730180102765" duration="546000" />
+      <workItem from="1730182375490" duration="1628000" />
+      <workItem from="1730261609748" duration="15747000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <option name="closed" value="true" />
-      <created>1730046814275</created>
+      <created>1730261636191</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1730046814275</updated>
+      <updated>1730261636191</updated>
     </task>
-    <task id="LOCAL-00002" summary="push">
-      <option name="closed" value="true" />
-      <created>1730208670614</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1730208670614</updated>
-    </task>
-    <task id="LOCAL-00003" summary="push-freq-count">
-      <option name="closed" value="true" />
-      <created>1730219755073</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1730219755073</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
-    <MESSAGE value="push-freq-count" />
-    <option name="LAST_COMMIT_MESSAGE" value="push-freq-count" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
