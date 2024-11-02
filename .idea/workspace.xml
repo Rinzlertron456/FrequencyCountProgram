@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcf4aae-442f-4e3c-bc5a-ad72b87c3232" name="Changes" comment="push-freq-count" />
+    <list default="true" id="efcf4aae-442f-4e3c-bc5a-ad72b87c3232" name="Changes" comment="push">
+      <change afterPath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/model/Frequencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/repository/FrequenciesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/controller/FrequencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/controller/FrequencyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/model/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-count/src/main/java/com/demo/frequency_count/model/Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-counter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-counter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-counter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-counter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency-counter/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frequency-counter/src/App.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +28,12 @@
     &quot;assignee&quot;: &quot;Rinzlertron456&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Rinzlertron456/FrequencyCountProgram.git&quot;,
-    &quot;accountId&quot;: &quot;d022b9c6-39dc-4bc8-ab65-fa774336785f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Rinzlertron456/FrequencyCountProgram.git",
+    "accountId": "3d813291-c437-49ea-a04c-03c5dd46f24b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -34,20 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.App.jsx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -78,6 +88,7 @@
       <workItem from="1730180102765" duration="546000" />
       <workItem from="1730182375490" duration="1628000" />
       <workItem from="1730261609748" duration="15747000" />
+      <workItem from="1730539808569" duration="3737000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <option name="closed" value="true" />
